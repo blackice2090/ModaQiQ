@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🔍 Modaqiq - Person Re-Identification System
+
 <img src="https://i.imgur.com/SLsD15L.png" alt="Modaqiq Banner" width="100%">
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
@@ -120,6 +121,41 @@ The system provides three main functionalities:
 1. **Person Re-Identification** - Compare two images
 2. **Person Recognition** - Identify from database
 3. **Add Person** - Register new individuals
+
+#### 1️⃣ Home Page
+<p align="center">
+  <img src="project_documentation/demo/1.png" alt="Home Page" width="800">
+  <br>
+  <em>Main landing page with navigation to all features</em>
+</p>
+
+#### 2️⃣ Person Re-Identification Interface
+<p align="center">
+  <img src="project_documentation/demo/2.png" alt="Re-Identification Interface" width="800">
+  <br>
+  <em>Upload or capture two images to compare</em>
+</p>
+
+#### 3️⃣ Comparison Results
+<p align="center">
+  <img src="project_documentation/demo/3.png" alt="Comparison Results" width="800">
+  <br>
+  <em>Real-time similarity results with confidence score</em>
+</p>
+
+#### 4️⃣ Face Recognition
+<p align="center">
+  <img src="project_documentation/demo/4.png" alt="Face Recognition" width="800">
+  <br>
+  <em>Identify known persons from database</em>
+</p>
+
+#### 5️⃣ Add New Person
+<p align="center">
+  <img src="project_documentation/demo/5.png" alt="Add New Person" width="800">
+  <br>
+  <em>Register new individuals to the system</em>
+</p>
 
 ### Training Results
 
@@ -851,3 +887,4 @@ If you find this project useful, please consider giving it a star. It helps us g
 [⬆ Back to Top](#-modaqiq---person-re-identification-system)
 
 </div>
+    
