@@ -143,7 +143,7 @@ The system provides three main functionalities:
   <em>Real-time similarity results with confidence score</em>
 </p>
 
-#### 4️⃣ Face Recognition
+#### 4️⃣ Person Re-Identification
 <p align="center">
   <img src="project_documentation/demo/4.png" alt="Face Recognition" width="800">
   <br>
