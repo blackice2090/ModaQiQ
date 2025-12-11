@@ -802,24 +802,24 @@ copies or substantial portions of the Software.
 
 **Obaid Al-Mutari** - Team Leader  
 🎓 Data Science & AI  
-📧 Email: obaid@modaqiq.com  
+📧 Email: ashgeareem1@gmail,com 
 🐙 GitHub: [@blackice2090](https://github.com/blackice2090)
 
 **Amal Al-Mutairi**  
 🔐 Cyber Security Student, Qassim University  
-📧 Email: amal@modaqiq.com
+📧 Email: t.amalalmotairy@gmail.com
 
 **Sadeem Al-Mutairi**  
 🎯 Gifted High School Student  
-📧 Email: sadeem@modaqiq.com
+📧 Email: Sadeem.ido@gmail.com
 
 ### Project Links
 
-- 🌐 **Website**: [https://modaqiq.io](https://modaqiq.io)
+- 🌐 **Website**: 
 - 📂 **GitHub**: [https://github.com/blackice2090/modaqiq-reid](https://github.com/blackice2090)
-- 📚 **Documentation**: [https://docs.modaqiq.io](https://docs.modaqiq.io)
-- 💬 **Discord**: [Join our community](https://discord.gg/modaqiq)
-- 🐦 **Twitter**: [@ModaqiqAI](https://twitter.com/modaqiq)
+- 📚 **Documentation**: 
+- 💬 **Discord**: 
+- 🐦 **Twitter**: 
 
 ### Support
 
@@ -828,7 +828,7 @@ If you encounter any issues or have questions:
 1. 📖 Check the [Documentation](https://docs.modaqiq.io)
 2. 🔍 Search [Existing Issues](https://github.com/blackice2090/modaqiq-reid/issues)
 3. 💬 Join our [Discord Community](https://discord.gg/modaqiq)
-4. 📧 Email us at support@modaqiq.com
+4. 📧 Email us at ashgeareem1@gmail.com
 5. 🐛 [Open a New Issue](https://github.com/blackice2090/modaqiq-reid/issues/new)
 
 ---
