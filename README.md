@@ -805,7 +805,7 @@ This project is licensed under the **MIT License** - see the [LICENSE.md](LICENS
 ```
 MIT License
 
-Copyright (c) 2024 Modaqiq Team
+Copyright (c) 2025 Modaqiq Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -831,11 +831,11 @@ copies or substantial portions of the Software.
 
 **Amal Al-Mutairi**  
 🔐 Cyber Security Student, Qassim University  
-📧 Email: amal@modaqiq.com
+📧 Email: at.amalalmotairy@gmail.com
 
 **Sadeem Al-Mutairi**  
 🎯 Gifted High School Student  
-📧 Email: sadeem@modaqiq.com
+📧 Email: Sadeem.ido@gmail.com
 
 ### Project Links
 
@@ -877,7 +877,7 @@ Special thanks to the maintainers of:
 
 ### Hackathon
 
-This project was developed as part of the **Absher Tuwaiq Hackathon 2024** 🏆
+This project was developed as part of the **Absher Tuwaiq Hackathon 2025** 🏆
 
 ### Contributors
 
