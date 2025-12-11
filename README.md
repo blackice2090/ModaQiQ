@@ -840,7 +840,7 @@ copies or substantial portions of the Software.
 ### Project Links
 
 - 🌐 **Website**: 
-- 📂 **GitHub**: [https://github.com/blackice2090/modaqiq-reid](https://github.com/blackice2090)
+- 📂 **GitHub**: [https://github.com/blackice2090/ModaQiQ](https://github.com/blackice2090)
 - 📚 **Documentation**:
 - 💬 **Discord**: 
 - 🐦 **Twitter**: 
