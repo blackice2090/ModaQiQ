@@ -143,7 +143,7 @@ The system provides three main functionalities:
   <em>Real-time similarity results with confidence score</em>
 </p>
 
-#### 4️⃣ Person Re-Identification
+#### 4️⃣ Face Recognition
 <p align="center">
   <img src="project_documentation/demo/4.png" alt="Face Recognition" width="800">
   <br>
@@ -305,6 +305,30 @@ pip install tensorflow-macos tensorflow-metal
 # Verify GPU availability
 python -c "import tensorflow as tf; print('Num GPUs:', len(tf.config.list_physical_devices('GPU')))"
 ```
+
+### 📥 Download Pre-trained Models
+
+We provide pre-trained models for quick start:
+
+**🎯 Fine-tuned ReID Model** (Recommended)
+- **Model**: EfficientNetV2B0 fine-tuned on custom dataset
+- **Accuracy**: 75.5% (Similar Pairs) | 72.8% (Different Pairs)
+- **Download**: [📦 Download Model (Google Drive)](https://drive.google.com/file/d/1lE2oMSoQXLu0oWabjN7mCSEklWSbIY0_/view?usp=sharing)
+- **Size**: ~150 MB
+- **Threshold**: 0.65
+
+**Installation Steps:**
+
+1. Download the model from the link above
+2. Extract the files to your project directory:
+   ```bash
+   mkdir -p reid/runs/BEST_MODEL
+   # Place the downloaded model in: reid/runs/BEST_MODEL/best_model.keras
+   ```
+3. Update `config.py` with the model path:
+   ```python
+   MODEL_SAVE_BEST = "reid/runs/BEST_MODEL/best_model.keras"
+   ```
 
 ---
 
@@ -781,7 +805,7 @@ This project is licensed under the **MIT License** - see the [LICENSE.md](LICENS
 ```
 MIT License
 
-Copyright (c) 2025 Modaqiq Team
+Copyright (c) 2024 Modaqiq Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -802,24 +826,24 @@ copies or substantial portions of the Software.
 
 **Obaid Al-Mutari** - Team Leader  
 🎓 Data Science & AI  
-📧 Email: ashgeareem1@gmail,com 
+📧 Email: obaid@modaqiq.com  
 🐙 GitHub: [@blackice2090](https://github.com/blackice2090)
 
 **Amal Al-Mutairi**  
 🔐 Cyber Security Student, Qassim University  
-📧 Email: t.amalalmotairy@gmail.com
+📧 Email: amal@modaqiq.com
 
 **Sadeem Al-Mutairi**  
 🎯 Gifted High School Student  
-📧 Email: Sadeem.ido@gmail.com
+📧 Email: sadeem@modaqiq.com
 
 ### Project Links
 
-- 🌐 **Website**: 
+- 🌐 **Website**: [https://modaqiq.io](https://modaqiq.io)
 - 📂 **GitHub**: [https://github.com/blackice2090/modaqiq-reid](https://github.com/blackice2090)
-- 📚 **Documentation**: 
-- 💬 **Discord**: 
-- 🐦 **Twitter**: 
+- 📚 **Documentation**: [https://docs.modaqiq.io](https://docs.modaqiq.io)
+- 💬 **Discord**: [Join our community](https://discord.gg/modaqiq)
+- 🐦 **Twitter**: [@ModaqiqAI](https://twitter.com/modaqiq)
 
 ### Support
 
@@ -828,7 +852,7 @@ If you encounter any issues or have questions:
 1. 📖 Check the [Documentation](https://docs.modaqiq.io)
 2. 🔍 Search [Existing Issues](https://github.com/blackice2090/modaqiq-reid/issues)
 3. 💬 Join our [Discord Community](https://discord.gg/modaqiq)
-4. 📧 Email us at ashgeareem1@gmail.com
+4. 📧 Email us at support@modaqiq.com
 5. 🐛 [Open a New Issue](https://github.com/blackice2090/modaqiq-reid/issues/new)
 
 ---
@@ -853,7 +877,7 @@ Special thanks to the maintainers of:
 
 ### Hackathon
 
-This project was developed as part of the **Absher Tuwaiq Hackathon 2025** 🏆
+This project was developed as part of the **Absher Tuwaiq Hackathon 2024** 🏆
 
 ### Contributors
 
