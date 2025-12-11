@@ -839,20 +839,20 @@ copies or substantial portions of the Software.
 
 ### Project Links
 
-- 🌐 **Website**: [https://modaqiq.io](https://modaqiq.io)
+- 🌐 **Website**: 
 - 📂 **GitHub**: [https://github.com/blackice2090/modaqiq-reid](https://github.com/blackice2090)
-- 📚 **Documentation**: [https://docs.modaqiq.io](https://docs.modaqiq.io)
-- 💬 **Discord**: [Join our community](https://discord.gg/modaqiq)
-- 🐦 **Twitter**: [@ModaqiqAI](https://twitter.com/modaqiq)
+- 📚 **Documentation**:
+- 💬 **Discord**: 
+- 🐦 **Twitter**: 
 
 ### Support
 
 If you encounter any issues or have questions:
 
-1. 📖 Check the [Documentation](https://docs.modaqiq.io)
+1. 📖 Check the [Documentation]
 2. 🔍 Search [Existing Issues](https://github.com/blackice2090/modaqiq-reid/issues)
-3. 💬 Join our [Discord Community](https://discord.gg/modaqiq)
-4. 📧 Email us at support@modaqiq.com
+3. 💬 Join our [Discord Community]
+4. 📧 Email us at ashgeareem1@gmail.com
 5. 🐛 [Open a New Issue](https://github.com/blackice2090/modaqiq-reid/issues/new)
 
 ---
