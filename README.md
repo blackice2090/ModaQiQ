@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🔍 Modaqiq - Person Re-Identification System
+<img src="https://i.imgur.com/SLsD15L.png" alt="Modaqiq Banner" width="100%">
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16+-orange.svg)](https://www.tensorflow.org/)
