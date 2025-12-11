@@ -826,7 +826,7 @@ copies or substantial portions of the Software.
 
 **Obaid Al-Mutari** - Team Leader  
 🎓 Data Science & AI  
-📧 Email: obaid@modaqiq.com  
+📧 Email: ashgeareeem1@gmail.com  
 🐙 GitHub: [@blackice2090](https://github.com/blackice2090)
 
 **Amal Al-Mutairi**  
